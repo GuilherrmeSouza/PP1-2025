@@ -1,4 +1,7 @@
-public class Main {
+
+import exe0.Carro;
+
+public class MainCarro {
     public static void main(String[] args) {
         //criando objetos da classe Carro
         // = instanciar a classe Carro
